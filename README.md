@@ -1,22 +1,4 @@
-<!-- Banner/Header -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=30&center=true&lines=wwelcome+to+Fahad%27s+World" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:017e40&height=250&section=header&text=Fahad%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Banner" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/I%20Am%20A%20BANGLADESHI-PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square&logo=flag-icon-css" />
-</p>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-  Welcome to My GitHub Profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h3>
-
----
 
 ## 👨‍💻 About Me
 
