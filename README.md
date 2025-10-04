@@ -1,7 +1,7 @@
 <!-- Banner/Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=30&center=true&lines=Fahad%20Ahamed;It's+Not+Just+My+Name;It's+A+Brand" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=30&center=true&lines=Welcome+to+Fahad%27s+World" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:017e40&height=250&section=header&text=Fahad%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Banner" />
   </a>
 </p>
